@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My First Git Project</string>
+    <string name="git_flow_practice">GIT FLOW PRACTICE</string>
 </resources>
